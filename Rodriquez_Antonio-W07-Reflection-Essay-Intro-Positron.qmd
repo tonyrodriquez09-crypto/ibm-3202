@@ -43,7 +43,7 @@ One part that stood out to me was how Positron supports both R and Python. This 
 
 Based on Step 1 and Step 3, I like that Positron feels familiar to RStudio users but also has a more modern layout. Like RStudio, Positron allows users to write code in an editor, run code in a console, and view outputs such as plots, variables, and reports. This makes the transition easier because the basic workflow is still similar.
 
-At the same time, Positron includes features that feel more flexible. The activity bar and sidebars make it easier to switch between files, search, source control, extensions, and other tools. I also like that the Command Palette is emphasized because it allows users to search for commands instead of trying to remember where every button is located. This seems useful when rendering documents, changing settings, opening tools, or running project-related commands.
+At the same time, Positron includes features that feel more flexible. The activity bar and sidebars make it easier to switch between files, search, source control, extensions, and other tools. I also like that the Command Palette is emphasized because it allows users to search for commands instead of trying to remember where every butrod is located. This seems useful when rendering documents, changing settings, opening tools, or running project-related commands.
 
 Another feature I liked was the data grid and Data Explorer. These tools make it easier to inspect datasets in detail by looking at rows, columns, and values. For data analysis, this can help users better understand their data before creating summaries, charts, or reports.
 
@@ -118,13 +118,7 @@ After rendering this Quarto report into an HTML file, I published the report usi
 
 My GitHub Pages URL is:
 
-<https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/>
-
-::: callout-note
-## Replace Before Submitting
-
-Replace the example URL above with your actual GitHub Pages link before submitting the assignment.
-:::
+https://tonyrodriquez09-crypto.github.io/ibm-3202/Rodriquez_Antonio-W07-Reflection-Essay-Intro-Positron.html
 
 # Quarto Features Used
 
